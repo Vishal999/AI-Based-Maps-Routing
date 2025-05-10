@@ -1,6 +1,6 @@
 # AI Smart Car Assistant
 
-# Live Demo - [Click Here](https://ai-based-maps-routing.streamlit.app/)
+# Live Demo - [Click Here](https://ai-based-maps-routing-app.streamlit.app/)
 
 
 ## Overview
